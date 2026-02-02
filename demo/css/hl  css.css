@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen{
+}
+body p {
+}
+body {
+    background-image: url(image/5.jpg);
+}
+.tb .tb1 {
+    font-weight: bolder;
+    font-size: xx-large;
+    color: #3EE4B8;
+}
+.bjtp h2 {
+    color: #E2DA4F;
+}
+li p img {
+    padding-left: 300px;
+}
+ul li img {
+    padding-left: 300px;
+}
+ul li img {
+}
+.mk #footer audio {
+    padding-left: 800px;
+    padding-top: 0px;
+    color: #7C1113;
+}
+.mk #footer p {
+    color: #E4C463;
+    font-weight: bolder;
+    font-size: x-large;
+}
